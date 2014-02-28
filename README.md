@@ -1,4 +1,3 @@
-github101.github.io
-===================
-
-Example repo and site from NICAR14
+# MacDiva's GitHub 101 page
+---
+A basic example of GitHub.io pages.
